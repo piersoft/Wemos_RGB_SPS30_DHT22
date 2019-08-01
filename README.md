@@ -17,8 +17,7 @@ Cassetta per elettricisti o similare
 Software: Arduino IDE
 
 
-
-**Librerie: 
+**Librerie: **
 
 
   [SDS011](https://github.com/ricki-z/SDS011) e nuova patch [.CPP](https://drive.google.com/open?id=1XjTrKBAsZZAOIlP953CSwsifAM_0MXDQ)
