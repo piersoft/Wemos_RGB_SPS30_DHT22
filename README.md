@@ -1,4 +1,4 @@
-# Wemos_RGB_SDS011_DHT22
+# Wemos_RGB_SPS30_DHT22
 
 Progetto derivato dell'Ebook [Una stazione ambientale a basso costo per polveri sottili](http://www.coderschoolitalia.it/ebook-una-stazione-ambientale-a-basso-costo-per-il-controllo-polveri-sottili/)
 
