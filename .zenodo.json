@@ -1,0 +1,14 @@
+{
+  "title": "Stazione di monitoraggio PM10 con sensore SPS30 e Wemos D1",
+  "description": "Firmware per stazione ambientale a basso costo per il monitoraggio delle polveri sottili, basata su Wemos D1 con sensore SPS30 e DHT22.",
+  "creators": [
+    {
+      "name": "Paolicelli, Francesco Piero",
+      "orcid": "0009-0001-2324-4193",
+      "affiliation": "Agenzia per l'Italia Digitale (AgID)"
+    }
+  ],
+  "license": "GPL-3.0",
+  "upload_type": "software",
+  "keywords": ["open data", "air quality", "PM10", "IoT", "civic tech"]
+}
